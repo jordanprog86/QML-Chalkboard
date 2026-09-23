@@ -1,1 +1,1 @@
-QMl Chalkboard Exemple, made with Qt
+QML Chalkboard Exemple, made with Qt
